@@ -1,0 +1,12 @@
+
+# Added by Antigravity CLI
+*.pyc
+.env
+.env.*
+.env.local
+.venv/
+__pycache__/
+downloader.db
+emails.db
+env/
+venv/
